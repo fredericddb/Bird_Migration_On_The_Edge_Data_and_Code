@@ -10,5 +10,3 @@ This repository contains the R script and data used for the paper *Bird migratio
 - **behavior_data_IAO_2021.RDS** – Behavioral data obtained with neck-mounted accelerometers.
 - **sngo_CORT.RDS** - Snow goose baseline and stress induced corticosterone concentration data.
 - **graylag_CORT.RDS** - Greylag baseline corticosterone concentration data.
-- **Figure_1.pdf** and **Figure_2.pdf** – Figures from the manuscript.  
-- **Movie_S1.mp4** and **VideoS1_Metadata** – Snow goose accelerometry data and associated video recordings from the spring staging area (Southern Quebec, 2021).
